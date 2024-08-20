@@ -4,4 +4,4 @@ This is my **GoLang Practice Exercises** repository. This repository contains a 
 
 ## YouTube Series
 
-The exercises in the `lets-go-with-golang` folder are directly linked to the lessons from the "Let's Go with GoLang" YouTube series. The series is available on [this playlist](https://www.youtube.com/playlist?list=PLy9JCsy2u97m3X0vxyW9kLP-_vOYgVyoj). Each exercise is meant to be completed after watching the corresponding video.
+The exercises in the `lets-go-with-golang` folder are directly linked to the lessons from the "Let's Go with GoLang" YouTube series. The series is available on [this playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa). Each exercise is meant to be completed after watching the corresponding video.
