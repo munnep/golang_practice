@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:latest
+    container_name: some-mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongoadmin
+      MONGO_INITDB_ROOT_PASSWORD: secret
+    volumes:
+      - ./mongo-data:/data/db
+    ports:
+      - "27017:27017"
+    restart: unless-stopped
